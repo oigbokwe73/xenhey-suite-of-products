@@ -1,6 +1,6 @@
 # Merchant Services—Detailed User Journey
 
-I reviewed the live [Merchant Services workspace](https://www.xenhey.com/api/store/57CC7857B9F24BF2A121D6C192E07BD9). The product contains two connected experiences:
+[Merchant Services workspace](https://www.xenhey.com/api/store/57CC7857B9F24BF2A121D6C192E07BD9). The product contains two connected experiences:
 
 * Merchant journey: application, onboarding, payment setup, compliance, pricing, equipment, activation, and ongoing support.
 * Administrative journey: verification, underwriting, risk review, provider submission, testing, activation, monitoring, and operational reporting.
